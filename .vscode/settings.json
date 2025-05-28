@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "createwallet",
+        "getbalance",
+        "getblock",
+        "getdata",
+        "listaddress",
+        "printchain",
+        "txos",
+        "unspend",
+        "utoxset",
+        "utxo",
+        "utxos",
+        "Utxoset",
+        "vout"
+    ]
+}
